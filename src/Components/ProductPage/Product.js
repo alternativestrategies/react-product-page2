@@ -5,7 +5,7 @@ const Product = (props) => {
     return(
         <React.Fragment>
             <div className="grid-item">
-            <img className="grid-image" src={`assets/img/${props.photos}`} alt="{props.name}"/>
+            <img className="grid-image" src={`/assets/img/${props.photos}`} alt="{props.name}"/>
             <p className="grid-item-name">
             { props.name }
             </p>

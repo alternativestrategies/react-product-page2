@@ -14,7 +14,7 @@ class App extends Component {
     return (
       //navigation within single page app
       <React.Fragment>
-        <BrowserRouter>
+        <BrowserRouter basename="/react-product-page2">
         <Navigation />
           <Route exact path="/" component={Home}/>
           <Route path="/product" component={ProductPage}/>
