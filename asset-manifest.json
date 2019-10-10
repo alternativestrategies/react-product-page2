@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-product-page2/static/css/main.4651c470.chunk.css",
+    "main.js": "/react-product-page2/static/js/main.1cf32599.chunk.js",
+    "main.js.map": "/react-product-page2/static/js/main.1cf32599.chunk.js.map",
+    "runtime-main.js": "/react-product-page2/static/js/runtime-main.3b010f1a.js",
+    "runtime-main.js.map": "/react-product-page2/static/js/runtime-main.3b010f1a.js.map",
+    "static/css/2.8ac39745.chunk.css": "/react-product-page2/static/css/2.8ac39745.chunk.css",
+    "static/js/2.dccbc67c.chunk.js": "/react-product-page2/static/js/2.dccbc67c.chunk.js",
+    "static/js/2.dccbc67c.chunk.js.map": "/react-product-page2/static/js/2.dccbc67c.chunk.js.map",
+    "index.html": "/react-product-page2/index.html",
+    "precache-manifest.d74bb857a6c0bfeb68fd527c0af804f2.js": "/react-product-page2/precache-manifest.d74bb857a6c0bfeb68fd527c0af804f2.js",
+    "service-worker.js": "/react-product-page2/service-worker.js",
+    "static/css/2.8ac39745.chunk.css.map": "/react-product-page2/static/css/2.8ac39745.chunk.css.map",
+    "static/css/main.4651c470.chunk.css.map": "/react-product-page2/static/css/main.4651c470.chunk.css.map",
+    "static/media/index.css": "/react-product-page2/static/media/Shamber.b5cecc68.ttf",
+    "static/media/slick-theme.css": "/react-product-page2/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b010f1a.js",
+    "static/css/2.8ac39745.chunk.css",
+    "static/js/2.dccbc67c.chunk.js",
+    "static/css/main.4651c470.chunk.css",
+    "static/js/main.1cf32599.chunk.js"
+  ]
+}
