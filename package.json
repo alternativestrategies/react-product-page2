@@ -2,7 +2,7 @@
   "name": "product-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alternativestrategies.github.io/react-product-page2/",
+  "homepage": "https://alternativestrategies.github.io/react-product-page2",
   "dependencies": {
     "axios": "^0.19.0",
     "boostrap": "^2.0.0",
