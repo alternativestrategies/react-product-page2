@@ -1,0 +1,26 @@
+[
+    {"product_id":1,"product_name":"Pages of Petals Daisy Notebook","product_description":"Take notes in style with this cute little daisy shaped notebook!","category":"organization","product_img":"daisy-notebook.jpg","price_id":1,"price":13.99},
+    
+
+    {"product_id":2,"product_name":"Creative Die Cut Washi Tapes","product_description":"Let your imagination run free with these gorgeous washi tapes","category":"tape","product_img":"floral-washi.png","price_id":2,"price":2.99},
+    
+
+    {"product_id":3,"product_name":"Skydue Floral File Accordion","product_description":"Floral file accordian useful for organizing documents","category":"organization","product_img":"folder.jpg","price_id":3,"price":7.99},
+    
+
+    {"product_id":4,"product_name":"Stabilo Boss Pastel Highlighter 6-pack","product_description":"Pastel Highlighters that are great for taking notes with soft tones","category":"highlighters","product_img":"stabilo.png","price_id":4,"price":9.99},
+    
+
+    {"product_id":5,"product_name":"LE PEN 10-PACK - RAINBOW","product_description":"These extra fine tip rainbow pens are perfect for doodling or taking notes in your planner","category":"pens","product_img":"lepen.jpg","price_id":5,"price":17.99},
+    
+
+    {"product_id":6,"product_name":"Zebra Mildliner 15ct Dual-tip Markers","product_description":"These cult classic pastel highlighters are perfect for taking notes without hurting your eyes","category":"highlighters","product_img":"mildliners.jpg","price_id":6,"price":16.99},
+    
+    {"product_id":7,"product_name":"Large 17-Month Academic Planner","product_description":"Organize your entire life with this 17 month planner","category":"organization","product_img":"planner.jpg","price_id":7,"price":31.99},
+    
+    {"product_id":8,"product_name":"Chinatown Market X Smiley UO Exclusive Smiley Notebook","product_description":"Write happy thoughts in this smiley-patterned notebook.","category":"organization","product_img":"smileyface.jpeg","price_id":8,"price":15.99},
+    
+    {"product_id":9,"product_name":"My Neighbor Totoro Gel Ink Pen","product_description":"Ink Pens with the iconic Ghibli character on top","category":"pens","product_img":"totoro.jpg","price_id":9,"price":2.99},
+    
+    {"product_id":10,"product_name":"10 Psc Candy Color Decorative Adhesive Tapes","product_description":"Colorful washi tapes useful for decoration or marking pages!","category":"tape","product_img":"rainbow-washi.jpg","price_id":10,"price":12.99}
+]

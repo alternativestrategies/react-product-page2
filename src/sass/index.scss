@@ -1,0 +1,18 @@
+@import './header';
+@import './footer';
+@import './products';
+@import './navigation';
+@import './slideshow';
+@import './contacts';
+
+@font-face {
+  font-family: "Shamber";
+  src: url(../fonts/Shamber.ttf) format('truetype');
+}
+  
+  //sub titles
+  h2 {
+    text-align: center;
+    font-size: 26px;
+    letter-spacing: .8px;
+}

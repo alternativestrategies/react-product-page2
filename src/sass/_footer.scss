@@ -1,0 +1,42 @@
+//footer styles
+.footer {
+    background-color: black;
+    color: white;
+    flex-shrink: 0;
+    
+    .submit-btn {
+        border: none;
+        background-color: white;
+        color: black;
+    }
+    &-lead {
+        margin-top: 30px;
+        font-size: 1.55rem;
+        font-weight: 500;
+        letter-spacing: .8px;
+    }
+    &-sub {
+        font-weight: 300;
+        //letter-spacing: .8px
+    }
+    span {
+        font-weight: 300;
+        display: block;
+        font-family: arial;
+        font-size: 10px;
+        letter-spacing: .1em;
+        text-transform: uppercase;
+    }
+    input[type=email]{
+        border: 1px solid white;
+        background-color: black;
+        color: white;
+        padding: 0 56px 0 25px;
+        height: 50px;
+    }
+    input[type=email]::-webkit-input-placeholder{
+        color:white;
+        font-size: .65em;
+        letter-spacing: .8px;
+      }
+  } 
